@@ -35,6 +35,14 @@
     ]
   },
   {
+    "url": "https://maven.google.com/androidx/appcompat/appcompat/1.1.0/appcompat-1.1.0.aar",
+    "out_file_name": "androidx_appcompat.aar",
+    "maven_dependency": "androidx.appcompat:appcompat:1.0.0",
+    "provides": [
+      "androidx.appcompat.app.AppCompatActivity"
+    ]
+  },
+  {
     "url": "https://maven.google.com/androidx/annotation/annotation/1.1.0/annotation-1.1.0.jar",
     "out_file_name": "androidx_annotation.jar",
     "maven_dependency": "androidx.annotation:annotation:1.1.0",
